@@ -10,7 +10,7 @@ export default function Ninjas() {
       </Head>
 
       <main>
-        Ninjas
+        <h1>All Ninjas</h1>
       </main>
     </div>
   )
