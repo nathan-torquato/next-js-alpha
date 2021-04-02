@@ -6,11 +6,10 @@ export default function Ninjas() {
     <div className={styles.container}>
       <Head>
         <title>Ninjas</title>
-        <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <h1>All Ninjas</h1>
+        <h1 className={styles.title}>All Ninjas</h1>
       </main>
     </div>
   )
