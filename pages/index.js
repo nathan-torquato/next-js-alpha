@@ -5,7 +5,8 @@ import styles from '../styles/Home.module.css'
 export default function Home() {
   return (<>
     <Head>
-      <title>Home</title>
+      <title>Ninja List | Home</title>
+      <meta name="keywords" content="ninjas"/>
     </Head>
     <main>
       <h1 className={styles.title}>Homepage</h1>

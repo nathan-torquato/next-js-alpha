@@ -5,7 +5,8 @@ export default function About() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>About</title>
+        <title>Ninja List | About</title>
+        <meta name="keywords" content="ninjas"/>
       </Head>
 
       <main>

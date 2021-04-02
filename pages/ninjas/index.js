@@ -5,7 +5,8 @@ export default function Ninjas() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Ninjas</title>
+        <title>Ninja List | Ninjas</title>
+        <meta name="keywords" content="ninjas"/>
       </Head>
 
       <main>
