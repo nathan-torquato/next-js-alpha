@@ -36,6 +36,15 @@ footer {
   border-top: 1px solid #eaeaea;
 }
 
+.not-found {
+  text-align: center;
+}
+
+.not-found a {
+  color: #4979ff;
+  font-weight: bold;
+}
+
 /* Hide scrollbar for Chrome, Safari and Opera */
 ::-webkit-scrollbar {
   display: none
